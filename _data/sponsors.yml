@@ -59,3 +59,29 @@ grants:
     website: https://www.silvergatebank.com/
     amount: 50000
     amount_formatted: $50,000
+
+providers:
+  -
+    name: Silvergate
+    image: assets/images/sponsors/silvergate.jpg
+    alt: Silvergate logo
+    website: https://www.silvergatebank.com/
+    type: "Banking"
+  -
+    name: River Financial
+    image: assets/images/sponsors/river.png
+    alt: River Financial logo
+    website: https://river.com/
+    type: "Exchange"
+  -
+    name: NYDIG
+    image: assets/images/sponsors/nydig.png
+    alt: NYDIG logo
+    website: https://nydig.com/
+    type: "Custody"
+  -
+    name: Casa
+    image: assets/images/sponsors/casa.png
+    alt: Casa logo
+    website: https://keys.casa/
+    type: "Custody"
